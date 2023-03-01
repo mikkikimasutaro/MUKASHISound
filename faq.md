@@ -38,11 +38,6 @@ system is still on and wait for the popup to appear, then you can safely unplug 
 If you do not follow this procedure, and unplug the USB drive while it is still in use, the app could crash or the data
 on your USB drive might be damaged.
 
-### Why is my USB drive not recognized?
-
-If you are driving a Polestar or Volvo, make sure you use car software version 2.2 or higher, [certain versions do not
-allow access to the USB data port]({{ site.baseurl }}{% link index.markdown %}#limitations).
-
 ![FAT32 error](/img/fat32_error.jpg)
 
 The app only supports USB flash drives formatted using **FAT32 filesystem**. Do *not* use *exFAT*, do *not* use any
