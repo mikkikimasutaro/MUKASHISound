@@ -95,7 +95,7 @@ Please see Github for a [list of changes for each version of the app](https://gi
 
 ## Frequently asked questions
 
-See [the FAQ section]({{ site.baseurl }}{% link faq.markdown %}).
+See [the FAQ section]({{ site.baseurl }}{% link faq.md %}).
 
 ## How do I report an issue?
 
