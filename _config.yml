@@ -2,7 +2,7 @@ title: MUKASHI Sound
 description: 日本の風景歌や童謡歌などの懐かしの音楽を車で聞けるアプリ
 #theme: just-the-docs
 
-baseurl: "/mukashiSound"
+baseurl: "/mukashiSound_docs"
 url: https://mikkikimasutaro.github.io
 github_username: mikkikimasutaro
 
@@ -11,6 +11,6 @@ color_scheme: "dark"
 search_enabled: false
 aux_links:
   "Source code on GitHub":
-    - "//github.com/mikkikimasutaro/mukashiSound/"
+    - "//github.com/mikkikimasutaro/mukashiSound_docs/"
 
 footer_content: "Copyright &copy; 2023 mikkikimasutaro"
