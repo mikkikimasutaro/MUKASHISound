@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MUKASHI Sound
+description: 日本の風景歌や童謡歌などの懐かしの音楽を車で聞けるアプリ
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mikkikimasutaro.github.io
+github_username: mikkikimasutaro
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+footer_content: "Copyright &copy; 2023 mikkikimasutaro"
