@@ -13,4 +13,7 @@ aux_links:
   "Source code on GitHub":
     - "//github.com/mikkikimasutaro/MUKASHISound/"
 
+logo: "/assets/images/logo.png"
+    
+
 footer_content: "Copyright &copy; 2023 mikkikimasutaro"
