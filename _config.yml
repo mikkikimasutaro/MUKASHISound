@@ -7,7 +7,7 @@ url: https://mikkikimasutaro.github.io
 github_username: mikkikimasutaro
 
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
+color_scheme: "light"
 search_enabled: false
 aux_links:
   "Source code on GitHub":
