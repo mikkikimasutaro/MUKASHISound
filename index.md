@@ -20,4 +20,3 @@ nav_order: 1
 PDとなった楽曲のみを利用していることを確認しておりますが、著作権者の変更・新規判明等により著作権の変更が判明した楽曲は削除させていただきます。
 
 また本アプリでは[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)ライセンスの下で開発された様々な[Android Open Source Project](https://source.android.com/)ライブラリを利用させていただいております。
----
