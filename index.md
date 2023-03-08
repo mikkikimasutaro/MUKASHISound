@@ -18,5 +18,5 @@ nav_order: 1
 本アプリのソースコードの著作権は著作者である[jpmikkiki](https://twitter.com/jpmikkiki)に帰属します。
 本アプリで提供している楽曲は[童謡・唱歌の世界](https://s-pst.info/douyou-syouka/)様より音源を利用させていただいております。
 PDとなった楽曲のみを利用していることを確認しておりますが、著作権者の変更・新規判明等により著作権の変更が判明した楽曲は削除させていただきます。
-
 また本アプリでは[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)ライセンスの下で開発された様々な[Android Open Source Project](https://source.android.com/)ライブラリを利用させていただいております。
+ - 
