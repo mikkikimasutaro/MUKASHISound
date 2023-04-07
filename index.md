@@ -5,8 +5,10 @@ nav_order: 1
 ---
 
 # MUKASHI Sound 日本の昔の歌
-日本の風景歌・童謡・わらべ歌を中心とした楽曲を再生します。
+Android AutomotiveOS向けに日本の風景歌・童謡・わらべ歌を中心とした楽曲を再生します。
 楽曲は不定期に更新します。
+
+[PlayStoreページ](https://play.google.com/store/apps/details?id=jp.mikkiki.mukashisound)
 
 ## ご意見や要望の連絡先
  - 本アプリに関してのご意見・楽曲のリクエスト等は[twitter](https://twitter.com/jpmikkiki)までおねがいします。
@@ -14,6 +16,7 @@ nav_order: 1
 ## ライセンスおよび謝辞
 本アプリの著作権は著作者である[jpmikkiki](https://twitter.com/jpmikkiki)に帰属します。
 また本アプリでは、[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)ライセンスの下で開発された以下の[Android Open Source Project](https://source.android.com/)ライブラリを利用させていただいております。
+ - [UAMP](https://github.com/android/uamp)
  - [ExoPlayer](https://github.com/google/ExoPlayer/)
  - [Glide](https://github.com/bumptech/glide)
  - [Gson](https://github.com/google/gson)
